@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/crap-distributor/static/js/main.acc2902a.chunk.js",
+    "main.js.map": "/crap-distributor/static/js/main.acc2902a.chunk.js.map",
+    "runtime-main.js": "/crap-distributor/static/js/runtime-main.347c6e47.js",
+    "runtime-main.js.map": "/crap-distributor/static/js/runtime-main.347c6e47.js.map",
+    "static/js/2.9f115c95.chunk.js": "/crap-distributor/static/js/2.9f115c95.chunk.js",
+    "static/js/2.9f115c95.chunk.js.map": "/crap-distributor/static/js/2.9f115c95.chunk.js.map",
+    "index.html": "/crap-distributor/index.html",
+    "precache-manifest.24356d4092be9e2ce9f5d2be054caffe.js": "/crap-distributor/precache-manifest.24356d4092be9e2ce9f5d2be054caffe.js",
+    "service-worker.js": "/crap-distributor/service-worker.js",
+    "static/js/2.9f115c95.chunk.js.LICENSE.txt": "/crap-distributor/static/js/2.9f115c95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.347c6e47.js",
+    "static/js/2.9f115c95.chunk.js",
+    "static/js/main.acc2902a.chunk.js"
+  ]
+}

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/crap-distributor/static/js/main.eeec25c9.chunk.js",
-    "main.js.map": "/crap-distributor/static/js/main.eeec25c9.chunk.js.map",
+    "main.js": "/crap-distributor/static/js/main.20b3300a.chunk.js",
+    "main.js.map": "/crap-distributor/static/js/main.20b3300a.chunk.js.map",
     "runtime-main.js": "/crap-distributor/static/js/runtime-main.347c6e47.js",
     "runtime-main.js.map": "/crap-distributor/static/js/runtime-main.347c6e47.js.map",
     "static/js/2.34b06bca.chunk.js": "/crap-distributor/static/js/2.34b06bca.chunk.js",
     "static/js/2.34b06bca.chunk.js.map": "/crap-distributor/static/js/2.34b06bca.chunk.js.map",
     "index.html": "/crap-distributor/index.html",
-    "precache-manifest.1ce59891e0a231438cfc6703599ffa1f.js": "/crap-distributor/precache-manifest.1ce59891e0a231438cfc6703599ffa1f.js",
+    "precache-manifest.4524ad82ee86ad4b977d0fa19f499818.js": "/crap-distributor/precache-manifest.4524ad82ee86ad4b977d0fa19f499818.js",
     "service-worker.js": "/crap-distributor/service-worker.js",
     "static/js/2.34b06bca.chunk.js.LICENSE.txt": "/crap-distributor/static/js/2.34b06bca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.347c6e47.js",
     "static/js/2.34b06bca.chunk.js",
-    "static/js/main.eeec25c9.chunk.js"
+    "static/js/main.20b3300a.chunk.js"
   ]
 }

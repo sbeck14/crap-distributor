@@ -47,7 +47,7 @@ const useStyles = makeStyles((theme) => ({
     fontSize: '0.8rem',
   },
   cardActions: {
-    justifyContent: 'space-around', padding: '16px 8px',
+    justifyContent: 'space-around', padding: '4px 8px 16px',
   },
   winTextRoot: {
     display: 'flex',
@@ -74,8 +74,7 @@ const useStyles = makeStyles((theme) => ({
     justifyContent: 'space-evenly',
   },
   buttonsContainer: {
-    marginTop: '8px',
-    marginBottom: '8px',
+    marginBottom: '4px',
   },
 }));
 

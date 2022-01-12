@@ -146,13 +146,13 @@ export default function Picker() {
 
   const reportChoice = (choice) => {
     setWaiting(true);
-    // setTimeout(() => {
-    findInHistory(choice).count += 1;
-    setCheckedHistory(checkedHistory);
-    localStorage.setItem('checkedHistory', JSON.stringify(checkedHistory));
-    setWaiting(false);
-    setWinner(choice);
-    // }, (Math.random() + 0.5) * 1000);
+    setTimeout(() => {
+      findInHistory(choice).count += 1;
+      setCheckedHistory(checkedHistory);
+      localStorage.setItem('checkedHistory', JSON.stringify(checkedHistory));
+      setWaiting(false);
+      setWinner(choice);
+    }, (Math.random() + 0.5) * 500);
   };
 
   const pickSortaFair = () => {
